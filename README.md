@@ -13,7 +13,7 @@
 ### Step 2. Add the dependency
 ```
 	dependencies {
-	        
+	     compile 'com.github.fgq233:XAndroidTool:1.0'   
 	}
 ```
 
